@@ -7,6 +7,7 @@
 ```
 apt update && apt upgrade
 apt install python2
+pip2 install tqdm
 pip2 install mechanize
 ```
 # USAGE
